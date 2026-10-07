@@ -1,0 +1,84 @@
+{
+  "schema_version": 1,
+  "book": {
+    "role": "textbook",
+    "subject": "语文",
+    "grade": 1,
+    "semester": "上册",
+    "publisher": "统编版",
+    "edition_year": 2024,
+    "title": "统编版语文一年级上册（2024）",
+    "source_file": "【人教版】一年级上册(2024秋版)语文电子课本.pdf",
+    "description": "种子纲：单元与知识点为人工整理的最小可用版本。用课本 PDF 做目录级拆解后可替换/细化。"
+  },
+  "units": [
+    {
+      "seq": 1,
+      "name": "识字（一）＋语文园地一",
+      "description": "识字：天地人/金木水火土/口耳目手足/日月山川；园地一",
+      "knowledge_points": [
+        "识字与朗读", "笔画名称与形状", "笔顺规则（先横后竖、先撇后捺）", "田字格占格与书写",
+        "词语搭配与组词", "古诗《咏鹅》《画》", "数序汉字（五~十）", "形近字辨析", "字谜与趣味识字"
+      ],
+      "lessons": [
+        { "seq": 1, "name": "天地人" },
+        { "seq": 2, "name": "金木水火土" },
+        { "seq": 3, "name": "口耳目手足", "pages": "9~14（识字2~4新笔画）" },
+        { "seq": 4, "name": "日月山川" },
+        { "seq": 5, "name": "语文园地一", "pages": "15~18" }
+      ]
+    },
+    {
+      "seq": 2,
+      "name": "汉语拼音（一）＋语文园地二",
+      "description": "拼音1~4：a o e ~ d t n l；园地二",
+      "knowledge_points": [
+        "单韵母（a o e i u ü）", "声母（y w b p m f d t n l）", "两拼音节拼读",
+        "音节正误辨析", "看拼音写汉字", "韵母归类"
+      ],
+      "lessons": [
+        { "seq": 1, "name": "汉语拼音1 a o e", "pages": "20~21" },
+        { "seq": 2, "name": "汉语拼音2（i u ü）", "pages": "22~23" },
+        { "seq": 3, "name": "汉语拼音3 b p m f", "pages": "24~25" },
+        { "seq": 4, "name": "汉语拼音4 d t n l", "pages": "26~27" },
+        { "seq": 5, "name": "语文园地二", "pages": "28~31" }
+      ]
+    },
+    {
+      "seq": 3,
+      "name": "汉语拼音（二）",
+      "description": "拼音5~9：g k h ~ y w",
+      "knowledge_points": ["声母（g k h j q x z c s zh ch sh r）", "三拼音节", "拼读巩固"]
+    },
+    {
+      "seq": 4,
+      "name": "汉语拼音（三）",
+      "description": "复韵母与鼻韵母",
+      "knowledge_points": ["复韵母（ai ei ui ao ou iu ie üe er）", "前后鼻韵母", "拼读与标调"]
+    },
+    {
+      "seq": 5,
+      "name": "课文（一）",
+      "description": "秋天/江南/雪地里的小画家/四季",
+      "knowledge_points": ["课文朗读与理解", "识字与写字"]
+    },
+    {
+      "seq": 6,
+      "name": "识字（二）",
+      "description": "对韵歌/日月明/小书包/升国旗",
+      "knowledge_points": ["识字与写字", "对韵歌韵律", "会意字初步"]
+    },
+    {
+      "seq": 7,
+      "name": "课文（二）",
+      "description": "小小的船/影子/两件宝",
+      "knowledge_points": ["课文朗读与理解", "识字与写字"]
+    },
+    {
+      "seq": 8,
+      "name": "课文（三）",
+      "description": "比尾巴/乌鸦喝水/雨点儿",
+      "knowledge_points": ["课文朗读与理解", "识字与写字"]
+    }
+  ]
+}

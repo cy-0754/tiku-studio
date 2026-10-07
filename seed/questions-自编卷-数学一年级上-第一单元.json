@@ -1,0 +1,652 @@
+{
+  "schema_version": 1,
+  "book": {
+    "role": "self_made",
+    "subject": "数学",
+    "grade": 1,
+    "semester": "上册",
+    "publisher": "自制",
+    "edition_year": 2026,
+    "title": "自编卷·数学一年级上（第一单元）",
+    "source_file": "自编卷/数学第一单元阶段自测卷.pdf",
+    "description": "原创种子题库：范围 5 以内数的认识和加减法（人教版 2024）。满分 100 分，限时 60 分钟。"
+  },
+  "source_textbook_title": "人教版数学一年级上册（2024）",
+  "questions": [
+    {
+      "stem": "连一连：把左边的图形个数和右边的数连起来。\n★\n●●●●●\n▲▲▲\n■■■■\n●●\n右边：3、1、5、2、4",
+      "answer": "★—1，●●●●●—5，▲▲▲—3，■■■■—4，●●—2",
+      "q_type": "连线",
+      "difficulty": 1,
+      "knowledge_points": [
+        "数物对应与写数"
+      ],
+      "source_page": "一、1",
+      "status": "confirmed",
+      "analysis": "逐一数出每组图形的个数再连线，注意一一对应。"
+    },
+    {
+      "stem": "数一数，在日字格里写数：○○○○\n（　）",
+      "answer": "4",
+      "q_type": "填空",
+      "difficulty": 1,
+      "knowledge_points": [
+        "数物对应与写数"
+      ],
+      "source_page": "一、2①",
+      "status": "confirmed"
+    },
+    {
+      "stem": "数一数，在日字格里写数：★★★\n（　）",
+      "answer": "3",
+      "q_type": "填空",
+      "difficulty": 1,
+      "knowledge_points": [
+        "数物对应与写数"
+      ],
+      "source_page": "一、2②",
+      "status": "confirmed"
+    },
+    {
+      "stem": "数一数，在日字格里写数：▲▲▲▲▲\n（　）",
+      "answer": "5",
+      "q_type": "填空",
+      "difficulty": 1,
+      "knowledge_points": [
+        "数物对应与写数"
+      ],
+      "source_page": "一、2③",
+      "status": "confirmed"
+    },
+    {
+      "stem": "按顺序填数：1、2、（　）、4、（　）",
+      "answer": "3、5",
+      "q_type": "填空",
+      "difficulty": 1,
+      "knowledge_points": [
+        "数序"
+      ],
+      "source_page": "二、1",
+      "status": "confirmed"
+    },
+    {
+      "stem": "按顺序填数（倒着数）：5、（　）、3、（　）、1",
+      "answer": "4、2",
+      "q_type": "填空",
+      "difficulty": 1,
+      "knowledge_points": [
+        "数序"
+      ],
+      "source_page": "二、1",
+      "status": "confirmed"
+    },
+    {
+      "stem": "阳台上挂着一排气球（每个 ○ 表示 1 个气球）：○　○　○　○　○\n(1) 一共有（　）个气球。(2) 从左边数，把第 2 个气球涂色。(3) 涂色的气球从右边数排第（　）个。",
+      "answer": "(1) 5 个；(2) 涂从左数第 2 个；(3) 第 4 个",
+      "q_type": "应用",
+      "difficulty": 2,
+      "knowledge_points": [
+        "几和第几"
+      ],
+      "source_page": "二、2",
+      "status": "confirmed",
+      "analysis": "区分『几个』和『第几个』：从左数和从右数的方向相反，序数不同。"
+    },
+    {
+      "stem": "在 ○ 里填上 ＞、＜ 或 ＝：4 ○ 5",
+      "answer": "＜",
+      "q_type": "填空",
+      "difficulty": 1,
+      "knowledge_points": [
+        "比大小（＞＜＝）"
+      ],
+      "source_page": "三、1",
+      "status": "confirmed"
+    },
+    {
+      "stem": "在 ○ 里填上 ＞、＜ 或 ＝：3 ○ 1",
+      "answer": "＞",
+      "q_type": "填空",
+      "difficulty": 1,
+      "knowledge_points": [
+        "比大小（＞＜＝）"
+      ],
+      "source_page": "三、1",
+      "status": "confirmed"
+    },
+    {
+      "stem": "在 ○ 里填上 ＞、＜ 或 ＝：5 ○ 5",
+      "answer": "＝",
+      "q_type": "填空",
+      "difficulty": 1,
+      "knowledge_points": [
+        "比大小（＞＜＝）"
+      ],
+      "source_page": "三、1",
+      "status": "confirmed"
+    },
+    {
+      "stem": "在 ○ 里填上 ＞、＜ 或 ＝：2 ○ 4",
+      "answer": "＜",
+      "q_type": "填空",
+      "difficulty": 1,
+      "knowledge_points": [
+        "比大小（＞＜＝）"
+      ],
+      "source_page": "三、1",
+      "status": "confirmed"
+    },
+    {
+      "stem": "在 ○ 里填上 ＞、＜ 或 ＝：5 ○ 3",
+      "answer": "＞",
+      "q_type": "填空",
+      "difficulty": 1,
+      "knowledge_points": [
+        "比大小（＞＜＝）"
+      ],
+      "source_page": "三、1",
+      "status": "confirmed"
+    },
+    {
+      "stem": "在 ○ 里填上 ＞、＜ 或 ＝：2 ○ 2",
+      "answer": "＝",
+      "q_type": "填空",
+      "difficulty": 1,
+      "knowledge_points": [
+        "比大小（＞＜＝）"
+      ],
+      "source_page": "三、1",
+      "status": "confirmed"
+    },
+    {
+      "stem": "▲▲▲▲\n●●\n先比一比，再填一填：▲ 比 ●（　　），4 ○ 2。（括号里填“多”“少”或“同样多”）",
+      "answer": "多，4＞2",
+      "q_type": "填空",
+      "difficulty": 2,
+      "knowledge_points": [
+        "比多少"
+      ],
+      "source_page": "三、2①",
+      "status": "confirmed",
+      "analysis": "一一对应比较后写比大小算式：4 个比 2 个多，4＞2。"
+    },
+    {
+      "stem": "■■■■■\n★★★★★\n先比一比，再填一填：■ 和 ★（　　），5 ○ 5。",
+      "answer": "同样多，5＝5",
+      "q_type": "填空",
+      "difficulty": 2,
+      "knowledge_points": [
+        "比多少"
+      ],
+      "source_page": "三、2②",
+      "status": "confirmed"
+    },
+    {
+      "stem": "分与合：5 可以分成 2 和（　）。",
+      "answer": "3",
+      "q_type": "填空",
+      "difficulty": 1,
+      "knowledge_points": [
+        "分与合"
+      ],
+      "source_page": "四",
+      "status": "confirmed"
+    },
+    {
+      "stem": "分与合：4 可以分成（　）和 1。",
+      "answer": "3",
+      "q_type": "填空",
+      "difficulty": 1,
+      "knowledge_points": [
+        "分与合"
+      ],
+      "source_page": "四",
+      "status": "confirmed"
+    },
+    {
+      "stem": "分与合（逆向求总数）：2 和 2 合起来是（　）。",
+      "answer": "4",
+      "q_type": "填空",
+      "difficulty": 2,
+      "knowledge_points": [
+        "分与合"
+      ],
+      "source_page": "四",
+      "status": "confirmed",
+      "analysis": "上面的空是倒过来求总数——2 和 2 合起来是 4。"
+    },
+    {
+      "stem": "分与合：3 可以分成 1 和（　）。",
+      "answer": "2",
+      "q_type": "填空",
+      "difficulty": 1,
+      "knowledge_points": [
+        "分与合"
+      ],
+      "source_page": "四",
+      "status": "confirmed"
+    },
+    {
+      "stem": "分与合（逆向求总数）：1 和 3 合起来是（　）。",
+      "answer": "4",
+      "q_type": "填空",
+      "difficulty": 2,
+      "knowledge_points": [
+        "分与合"
+      ],
+      "source_page": "四",
+      "status": "confirmed"
+    },
+    {
+      "stem": "分与合：5 可以分成（　）和 3。",
+      "answer": "2",
+      "q_type": "填空",
+      "difficulty": 1,
+      "knowledge_points": [
+        "分与合"
+      ],
+      "source_page": "四",
+      "status": "confirmed"
+    },
+    {
+      "stem": "口算：2＋1＝（　）",
+      "answer": "3",
+      "q_type": "口算",
+      "difficulty": 1,
+      "knowledge_points": [
+        "5以内加减法"
+      ],
+      "source_page": "五",
+      "status": "confirmed"
+    },
+    {
+      "stem": "口算：1＋3＝（　）",
+      "answer": "4",
+      "q_type": "口算",
+      "difficulty": 1,
+      "knowledge_points": [
+        "5以内加减法"
+      ],
+      "source_page": "五",
+      "status": "confirmed"
+    },
+    {
+      "stem": "口算：4－1＝（　）",
+      "answer": "3",
+      "q_type": "口算",
+      "difficulty": 1,
+      "knowledge_points": [
+        "5以内加减法"
+      ],
+      "source_page": "五",
+      "status": "confirmed"
+    },
+    {
+      "stem": "口算：2＋2＝（　）",
+      "answer": "4",
+      "q_type": "口算",
+      "difficulty": 1,
+      "knowledge_points": [
+        "5以内加减法"
+      ],
+      "source_page": "五",
+      "status": "confirmed"
+    },
+    {
+      "stem": "口算：3＋2＝（　）",
+      "answer": "5",
+      "q_type": "口算",
+      "difficulty": 1,
+      "knowledge_points": [
+        "5以内加减法"
+      ],
+      "source_page": "五",
+      "status": "confirmed"
+    },
+    {
+      "stem": "口算：5－2＝（　）",
+      "answer": "3",
+      "q_type": "口算",
+      "difficulty": 1,
+      "knowledge_points": [
+        "5以内加减法"
+      ],
+      "source_page": "五",
+      "status": "confirmed"
+    },
+    {
+      "stem": "口算：1＋1＝（　）",
+      "answer": "2",
+      "q_type": "口算",
+      "difficulty": 1,
+      "knowledge_points": [
+        "5以内加减法"
+      ],
+      "source_page": "五",
+      "status": "confirmed"
+    },
+    {
+      "stem": "口算：4＋1＝（　）",
+      "answer": "5",
+      "q_type": "口算",
+      "difficulty": 1,
+      "knowledge_points": [
+        "5以内加减法"
+      ],
+      "source_page": "五",
+      "status": "confirmed"
+    },
+    {
+      "stem": "口算：5－1＝（　）",
+      "answer": "4",
+      "q_type": "口算",
+      "difficulty": 1,
+      "knowledge_points": [
+        "5以内加减法"
+      ],
+      "source_page": "五",
+      "status": "confirmed"
+    },
+    {
+      "stem": "口算：2＋3＝（　）",
+      "answer": "5",
+      "q_type": "口算",
+      "difficulty": 1,
+      "knowledge_points": [
+        "5以内加减法"
+      ],
+      "source_page": "五",
+      "status": "confirmed"
+    },
+    {
+      "stem": "口算：3－2＝（　）",
+      "answer": "1",
+      "q_type": "口算",
+      "difficulty": 1,
+      "knowledge_points": [
+        "5以内加减法"
+      ],
+      "source_page": "五",
+      "status": "confirmed"
+    },
+    {
+      "stem": "口算：1＋4＝（　）",
+      "answer": "5",
+      "q_type": "口算",
+      "difficulty": 1,
+      "knowledge_points": [
+        "5以内加减法"
+      ],
+      "source_page": "五",
+      "status": "confirmed"
+    },
+    {
+      "stem": "口算：4－3＝（　）",
+      "answer": "1",
+      "q_type": "口算",
+      "difficulty": 1,
+      "knowledge_points": [
+        "5以内加减法"
+      ],
+      "source_page": "五",
+      "status": "confirmed"
+    },
+    {
+      "stem": "口算：3＋1＝（　）",
+      "answer": "4",
+      "q_type": "口算",
+      "difficulty": 1,
+      "knowledge_points": [
+        "5以内加减法"
+      ],
+      "source_page": "五",
+      "status": "confirmed"
+    },
+    {
+      "stem": "口算：5－3＝（　）",
+      "answer": "2",
+      "q_type": "口算",
+      "difficulty": 1,
+      "knowledge_points": [
+        "5以内加减法"
+      ],
+      "source_page": "五",
+      "status": "confirmed"
+    },
+    {
+      "stem": "口算：2－1＝（　）",
+      "answer": "1",
+      "q_type": "口算",
+      "difficulty": 1,
+      "knowledge_points": [
+        "5以内加减法"
+      ],
+      "source_page": "五",
+      "status": "confirmed"
+    },
+    {
+      "stem": "口算：5－4＝（　）",
+      "answer": "1",
+      "q_type": "口算",
+      "difficulty": 1,
+      "knowledge_points": [
+        "5以内加减法"
+      ],
+      "source_page": "五",
+      "status": "confirmed"
+    },
+    {
+      "stem": "口算：4－2＝（　）",
+      "answer": "2",
+      "q_type": "口算",
+      "difficulty": 1,
+      "knowledge_points": [
+        "5以内加减法"
+      ],
+      "source_page": "五",
+      "status": "confirmed"
+    },
+    {
+      "stem": "口算：1＋2＝（　）",
+      "answer": "3",
+      "q_type": "口算",
+      "difficulty": 1,
+      "knowledge_points": [
+        "5以内加减法"
+      ],
+      "source_page": "五",
+      "status": "confirmed"
+    },
+    {
+      "stem": "口算：3－3＝（　）",
+      "answer": "0",
+      "q_type": "口算",
+      "difficulty": 1,
+      "knowledge_points": [
+        "5以内加减法"
+      ],
+      "source_page": "五",
+      "status": "confirmed"
+    },
+    {
+      "stem": "停车场原来停着 3 辆汽车（●●●），又开来了 1 辆（●）。现在一共有多少辆？\n先填算式：□ ○ □ ＝ □",
+      "answer": "3＋1＝4（辆）",
+      "q_type": "看图列式",
+      "difficulty": 2,
+      "knowledge_points": [
+        "看图列式",
+        "5以内加减法"
+      ],
+      "source_page": "六、1",
+      "status": "confirmed",
+      "analysis": "求一共用加法：原来的 3 辆加上又开来的 1 辆。"
+    },
+    {
+      "stem": "树上有 5 个苹果（★ ★ ★ ★ ★），摘走了 2 个（后 2 个划掉表示摘走）。还剩几个？\n先填算式：□ ○ □ ＝ □",
+      "answer": "5－2＝3（个）",
+      "q_type": "看图列式",
+      "difficulty": 2,
+      "knowledge_points": [
+        "看图列式",
+        "5以内加减法"
+      ],
+      "source_page": "六、2",
+      "status": "confirmed",
+      "analysis": "求还剩用减法：从总数里去掉摘走的。"
+    },
+    {
+      "stem": "草地上有 4 只白鸡（○○○○）和 1 只黑鸡（●）。看图写出两道加法算式。",
+      "answer": "4＋1＝5，1＋4＝5",
+      "q_type": "看图列式",
+      "difficulty": 2,
+      "knowledge_points": [
+        "看图列式",
+        "5以内加减法"
+      ],
+      "source_page": "六、3",
+      "status": "confirmed",
+      "analysis": "一图两式：交换加数位置，得数不变。"
+    },
+    {
+      "stem": "盘子里一个苹果也没有，用数字（　）表示。",
+      "answer": "0",
+      "q_type": "填空",
+      "difficulty": 1,
+      "knowledge_points": [
+        "0的认识和加减法"
+      ],
+      "source_page": "七、1",
+      "status": "confirmed",
+      "analysis": "一个也没有就用 0 表示。"
+    },
+    {
+      "stem": "口算：3－3＝（　）",
+      "answer": "0",
+      "q_type": "口算",
+      "difficulty": 1,
+      "knowledge_points": [
+        "0的认识和加减法"
+      ],
+      "source_page": "七、2",
+      "status": "confirmed"
+    },
+    {
+      "stem": "口算：4＋0＝（　）",
+      "answer": "4",
+      "q_type": "口算",
+      "difficulty": 1,
+      "knowledge_points": [
+        "0的认识和加减法"
+      ],
+      "source_page": "七、2",
+      "status": "confirmed"
+    },
+    {
+      "stem": "口算：5－0＝（　）",
+      "answer": "5",
+      "q_type": "口算",
+      "difficulty": 1,
+      "knowledge_points": [
+        "0的认识和加减法"
+      ],
+      "source_page": "七、2",
+      "status": "confirmed"
+    },
+    {
+      "stem": "口算：0＋2＝（　）",
+      "answer": "2",
+      "q_type": "口算",
+      "difficulty": 1,
+      "knowledge_points": [
+        "0的认识和加减法"
+      ],
+      "source_page": "七、2",
+      "status": "confirmed"
+    },
+    {
+      "stem": "花丛中有 4 只蝴蝶，飞走了 2 只，还剩几只？\n算式：□ ○ □ ＝ □（　　）",
+      "answer": "4－2＝2（只）",
+      "q_type": "应用",
+      "difficulty": 2,
+      "knowledge_points": [
+        "用加减法解决问题"
+      ],
+      "source_page": "八、1",
+      "status": "confirmed",
+      "analysis": "去掉一部分用减法，注意得数后写单位『只』。"
+    },
+    {
+      "stem": "小明搭了 3 块积木，小红搭了 2 块，两人一共搭了多少块？\n算式：□ ○ □ ＝ □（　　）",
+      "answer": "3＋2＝5（块）",
+      "q_type": "应用",
+      "difficulty": 2,
+      "knowledge_points": [
+        "用加减法解决问题"
+      ],
+      "source_page": "八、2",
+      "status": "confirmed"
+    },
+    {
+      "stem": "用 2、3、5 三个数，写出一道加法算式和一道减法算式。",
+      "answer": "2＋3＝5（或 3＋2＝5），5－2＝3（或 5－3＝2）",
+      "q_type": "填空",
+      "difficulty": 2,
+      "knowledge_points": [
+        "分与合",
+        "用加减法解决问题"
+      ],
+      "source_page": "八、3",
+      "status": "confirmed",
+      "analysis": "三个数组成加减法家族：两个小数相加得大数，大数减去一个小数得另一个小数。"
+    },
+    {
+      "stem": "□ ＜ 3，□ 里可以填几？写出 1 个就可以。",
+      "answer": "0、1、2 中任写一个即可",
+      "q_type": "填空",
+      "difficulty": 3,
+      "knowledge_points": [
+        "开放填数"
+      ],
+      "source_page": "九、1",
+      "status": "confirmed",
+      "scope_status": "extension",
+      "scope_reason": "提优拓展：比大小开放题，对应课本第 33 页练一练三⑤",
+      "unit_hint": {
+        "seq": 1
+      }
+    },
+    {
+      "stem": "4 ＜ □，□ 里可以填几？写出 1 个就可以。",
+      "answer": "5",
+      "q_type": "填空",
+      "difficulty": 3,
+      "knowledge_points": [
+        "开放填数"
+      ],
+      "source_page": "九、1",
+      "status": "confirmed",
+      "scope_status": "extension",
+      "scope_reason": "提优拓展：本单元最大数是 5，对应课本第 33 页练一练三⑤",
+      "unit_hint": {
+        "seq": 1
+      }
+    },
+    {
+      "stem": "小朋友排队做操。从前面数，小亮排第 2；从后面数，小亮排第 3。这一队一共有（　）个小朋友。可以先画 ○ 帮助思考。",
+      "answer": "4 个。小亮前面 1 人、后面 2 人，加上小亮自己共 4 人；不能把 2 和 3 直接相加，因为小亮被数了两次。",
+      "q_type": "应用",
+      "difficulty": 3,
+      "knowledge_points": [
+        "排队推理"
+      ],
+      "source_page": "九、2",
+      "status": "confirmed",
+      "scope_status": "extension",
+      "scope_reason": "提优：排队推理，对应课本第 23 页思考题拓展",
+      "analysis": "画 ○●○○，● 是小亮：他前面 1 人、后面 2 人，所以一共 4 人。",
+      "unit_hint": {
+        "seq": 1
+      }
+    }
+  ]
+}

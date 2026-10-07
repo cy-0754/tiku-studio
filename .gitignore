@@ -1,0 +1,21 @@
+# 私人数据：一切由本机产生的题库/资料不入公开仓库
+data/
+!data/.gitkeep
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+
+# Node
+node_modules/
+apps/web/dist/
+apps/web/.vite/
+
+# 本地运行产物
+*.log
+*.db
+.DS_Store
+Thumbs.db
